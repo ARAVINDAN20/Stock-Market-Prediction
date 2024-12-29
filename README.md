@@ -3,7 +3,6 @@
 A JavaScript-based stock market prediction application using machine learning and data visualization.
 <img src="ARAVIND%20LOGO.jpg" alt="Rachel HR Interview Bot" width="300" height="360">
 
-![Logo](ARAVIND%20LOGO.jpg)
 ![image](https://github.com/user-attachments/assets/c0059f56-0cb5-4338-a927-fca7d705caa7)
 ![image](https://github.com/user-attachments/assets/1194eca2-d0f0-47c9-8d50-b968b5299985)
 ![image](https://github.com/user-attachments/assets/08db1830-12ef-460d-8716-f6f78d13cb8a)
